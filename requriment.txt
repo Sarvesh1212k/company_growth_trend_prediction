@@ -12,3 +12,4 @@ import urllib.parse
 import json
 import os
 import random
+mysql-connector-python
